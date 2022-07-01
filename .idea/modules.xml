@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Quran-school-full.iml" filepath="$PROJECT_DIR$/.idea/Quran-school-full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quran-school-back-second-version/quran-school.iml" filepath="$PROJECT_DIR$/quran-school-back-second-version/quran-school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quran-school-back-first-version/quranSchool.iml" filepath="$PROJECT_DIR$/quran-school-back-first-version/quranSchool.iml" />
+    </modules>
+  </component>
+</project>
